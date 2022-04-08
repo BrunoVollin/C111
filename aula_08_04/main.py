@@ -12,6 +12,6 @@ arr2 = arr[:5].copy() # pegando 5 primeiros posições
 arr2[0] = 100
 
 print(f'''
-arr1: {arr};
-arr2: {arr2};
+arr1: {arr}
+arr2: {arr2}
 ''')
