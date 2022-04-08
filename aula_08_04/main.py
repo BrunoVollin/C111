@@ -2,7 +2,7 @@ import numpy as np
 
 arr = np.random.seed(10)
 
-arr = np.random.randint(1, 11, 10)
+arr = np.random.randint(1, 11, 11)
 '''
 copy siginifica que vc esta copiando uma parte do array
 se n fazer copy o array anterior vai sofrer as alterações que acontecerem com o 2
