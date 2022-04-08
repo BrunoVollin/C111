@@ -13,5 +13,5 @@ arr2[0] = 100
 
 print(f'''
 arr1: {arr}
-arr2: {arr2};
+arr2: {arr2}
 ''')
